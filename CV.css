@@ -1,0 +1,74 @@
+body{
+background-color: grey;    
+}
+.page{
+    width: 780px;
+    margin: auto;
+    font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
+    font-size:  16px;
+    border:5px solid #3388CC;
+    border-radius: 10px;
+    box-shadow:2px 3px 4px black;
+    padding: 20px;
+    background-color: white;
+    }
+
+.infophoto{
+    height: 250px;
+}
+.info{
+    float: left;
+}
+.photo{
+    float: right;
+}
+
+.section{
+    margin-bottom: 70px;
+    text-align: justify;
+}
+
+.sec-gauche{
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.sec-droite{
+     margin-left: 150px;
+     margin-top: 38px;
+}
+
+h2{
+    font-size: 28px;
+    color:#3388BB;
+    border-bottom: 3px solid #3388DD;
+}
+.titre{
+    font-weight: bold;
+    font-size:20px;
+}
+#Expériences professionnelles-gauche p{
+    margin-bottom: 80px;
+}
+#Formation-gauche p{
+    margin-top:15px;
+    line-height: 21px;
+    
+}
+#lang-droite p{
+    margin-top: 33px;
+    line-height: -5px;
+    margin-bottom: 0px;
+}
+#lang-gauche p{
+    margin-top:  12px;
+    line-height: 30px;
+}
+#compétences-gauche p{
+    margin-top: 8px;
+    line-height: 33px;
+}
+strong{
+    font-size:32px;
+}
